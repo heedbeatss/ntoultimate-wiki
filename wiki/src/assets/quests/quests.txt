@@ -1,0 +1,27 @@
+<img src='@/src/assets/quests/blackdeath/QuestBlackDeath.png'>
+
+@assets/quests/Deidara/mapa.png
+
+
+falta info:
+two & four
+geleira
+hidan
+itachi
+kisame
+kurama amulet
+matatabi
+selo
+
+falta prints:
+700
+craft
+new armor
+new boots
+new kage
+geleira
+two & four
+selo
+
+
+------------

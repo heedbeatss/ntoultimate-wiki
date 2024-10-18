@@ -1,0 +1,83 @@
+<template>
+    <section class="quest">
+      <div class="quest__info">
+        <h2>Quest New Kage/Glove </h2>
+        <h3>Local da Quest: Covil Orochimaru</h3>
+        <p>Requisitos: Nenhum item é necessário para fazer a quest</p>
+        <p>Boss:</p>
+        <p>Premiação: New Kage e/ou New Glove</p>
+        <p>Obs: Essa Quest pode ser feita duas vezes por season.</p>
+    </div>
+  
+      <div class="quest__media">
+        <h3>Galeria de Prints</h3>
+        <div class="quest__prints">
+          <img src="@/assets/quests/newkage/EntradaQuest.png" alt="Entrada da Quest">
+          <img src="@/assets/quests/newkage/EntradaQuest2.png" alt="Entrada da Quest 2">
+          <!-- Adicione mais imagens conforme necessário -->
+        </div>
+  
+        <h3>Vídeo da Quest</h3>
+        <div class="quest__video">
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/4BmPBdfn6Qo?si=9lo3O05i_AcykFF-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </div>
+      </div>
+    </section>
+  </template>
+  
+  <style scoped>
+  .quest {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    background-color: black;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .quest__info {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .quest__info h2 {
+    font-size: 2rem;
+    color: orangered;
+  }
+  
+  .quest__info p {
+    font-size: 0.8rem;
+    color: white;
+  }
+  
+  .quest__media {
+    width: 100%;
+    max-width: 800px;
+  }
+  
+  .quest__prints {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    justify-content: center;
+    margin-bottom: 20px;
+  }
+  
+  .quest__prints img {
+    max-width: 200px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .quest__video {
+    text-align: center;
+  }
+  
+  .quest__video iframe {
+    width: 100%;
+    max-width: 560px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  </style>
