@@ -1,7 +1,7 @@
 <template>
     <section class="personagem"> 
         <div class="personagem__info">
-          <img src="@/assets/personagens/npmMuu.jpg"> 
+          <img src="@/assets/personagens/Muu.jpg"> 
           <h2>Muu</h2>
           <h3> Dano | Distance/Sword</h3> 
         </div>
