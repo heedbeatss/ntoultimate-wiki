@@ -109,9 +109,9 @@
       </div>
 
       <div id="tutorialbot" class="tutorial-content" v-show="activeTab === 'tutorialbot'">
-        <h1>Tutorial Bot</h1>
+        <h1>Tutorial Bot *Em Breve*</h1>
                 
-        <p>
+        <!-- <p>
           <strong>Descrição:</strong> Este tutorial é para auxiliar os jogadores a usarem e configurarem o bot do OTC.</p>
         
         <h2>Passos do Tutorial</h2>
@@ -127,7 +127,7 @@
         <h2>Recursos Adicionais</h2>
         <ul>
           <li><a href="link1">Recurso 1</a></li>
-        </ul>
+        </ul> -->
       </div>
 
       <div id="tutorialup" class="tutorial-content" v-show="activeTab === 'tutorialup'">
