@@ -3,30 +3,6 @@
     <ul class="distance" id="distance__title">
       <span>Distance:</span>
 
-      <li>
-        <img class="ds__icon" src="@/assets/itens/SusanooBow.png">
-        <span>Susanoo Bow</span>
-        <table class="distance-table">
-          <thead>
-            <tr>
-              <th>Nome</th>
-              <th>Drop</th>
-              <th>Passiva</th>
-              <th>Ataque</th>
-              <th>Defesa</th>
-            </tr>
-          </thead>
-          <tbody>
-            <tr>
-              <td>Susanoo Bow</td>
-              <td>Item Vip</td>
-              <td>A cada 15 segundos causa uma rajada de dano e causa slow no alvo!</td>
-              <td>3350</td>
-              <td>0</td>
-            </tr>
-          </tbody>
-        </table>
-      </li>
 
       <li>
         <img class="ds__icon" src="@/assets/itens/SusanooBow.png">
