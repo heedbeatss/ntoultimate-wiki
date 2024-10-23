@@ -56,7 +56,7 @@
                 <td>Isqueiro</td>
                 <td>Npc Asuma (troca por 100 Konchu Eggs)</td>
                 <td>Serve para abrir a quest New Sword.</td>
-                <td><img src='@/assets/itens/GreenPill.png'></td>
+                <td><img src='@/assets/itens/Isqueiro.png'></td>
               </tr>
           </tbody>
 
@@ -75,7 +75,7 @@
             <td>Pumpkin Accursed (Buff Halloween)</td>
             <td>Evento Halloween</td>
             <td>Aumenta seus atributos por alguns segundos ao usar</td>
-            <td><img src='@/assets/itens/PirateVoodooDoll.png'></td>
+            <td><img src='@/assets/itens/PumpkinAccursed.png'></td>
           </tr>
       </tbody>
 
@@ -94,7 +94,7 @@
         <td>Voodoo Doll</td>
         <td>...</td>
         <td>Decoração</td>
-        <td><img src='@/assets/itens/PirateVoodooDoll.png'></td>
+        <td><img src='@/assets/itens/VoodooDoll.png'></td>
       </tr>
     </tbody>
 

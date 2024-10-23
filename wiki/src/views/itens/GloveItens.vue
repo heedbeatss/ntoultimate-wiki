@@ -123,28 +123,7 @@
         </table>
       </li>
  
-      <li>
-        <img class="sw__icon" src="@/assets/itens/AianNakkuru.png">
-        <span>Aian Nakkuru</span>
-        <table class="glove-table">
-          <thead>
-            <tr>
-              <th>Nome</th>
-              <th>Drop</th>
-              <th>Ataque</th>
-              <th>Defesa</th>
-            </tr>
-          </thead>
-          <tbody>
-            <tr>
-              <td>Aian Nakkuru</td>
-              <td>Quest</td>
-              <td>1350</td>
-              <td>0</td>
-            </tr>
-          </tbody>
-        </table>
-      </li>
+      
 
       <li>
         <img class="sw__icon" src="@/assets/itens/RaikageGlove.png">

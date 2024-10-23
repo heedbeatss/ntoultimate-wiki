@@ -61,15 +61,6 @@
               </tr>
           </tbody>
 
-            <tbody>
-                <tr>
-                  <td></td>
-                  <td></td>
-                  <td></td>
-                  <td><img src='@/assets/itens/BluePill.png'></td>
-                </tr>
-            </tbody>
-
 
             </table>
         </li>
