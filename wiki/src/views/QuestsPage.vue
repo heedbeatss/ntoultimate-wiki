@@ -182,6 +182,63 @@ a:hover {
 p {
   color: #2a2a2a;
   text-decoration: none;
-  font-weight: bold;
+  
+}
+
+/* Responsividade */
+@media (max-width: 768px) {
+  h1 {
+    font-size: 2rem;
+  }
+
+  button {
+    font-size: 1rem;
+    padding: 8px 15px;
+  }
+
+  .quest__prints {
+    width: 100%;
+    height: auto;
+    max-width: 300px; /* Ajuste para dispositivos móveis */
+  }
+
+  .quest__prints img {
+    max-width: 200px;
+    max-height: 100px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    object-fit: cover;
+  }
+
+  
+
+  .tabs {
+    flex-direction: column; /* Tabs empilhadas em telas menores */
+  }
+
+  li {
+    font-size: 1rem;
+  }
+}
+
+@media (max-width: 480px) {
+  h1 {
+    font-size: 1.5rem;
+  }
+
+  button {
+    font-size: 0.9rem;
+    padding: 6px 12px;
+  }
+
+  .quest__prints img {
+    max-width: 200px;
+    max-height: 100px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    object-fit: cover;
+  }
 }
 </style>
+
+
