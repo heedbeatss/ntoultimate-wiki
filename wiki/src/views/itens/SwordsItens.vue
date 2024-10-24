@@ -2,7 +2,6 @@
   <div class="itens__list">
     <ul class="sword" id="swords__title">
       <span>Swords:</span>
-      <p>New Swords:</p>
       <li>
         <img class="sw__icon" src="@/assets/itens/Gunbai.png">
         <span>Gunbai</span>
@@ -357,4 +356,48 @@ a:hover {
   text-decoration: underline; /* Sublinha ao passar o mouse */
 }
 
+/* Responsividade para dispositivos móveis */
+@media (max-width: 768px) {
+  .sword-table th, .sword-table td {
+    padding: 5px;
+    font-size: 12px;
+  }
+
+  .sword__icon {
+    width: 60px; /* Ícones menores em dispositivos móveis */
+  }
+
+  li {
+    font-size: 12px; /* Texto menor nos itens */
+    padding: 8px;
+  }
+
+  #sword__title {
+    font-size: 20px; /* Reduz o tamanho do título */
+  }
+}
+
+/* Responsividade para dispositivos menores que 480px */
+@media (max-width: 480px) {
+  .sword-table th, .sword-table td {
+    font-size: 10px; /* Fonte ainda menor */
+  }
+
+  .sw__icon {
+    width: 50px; /* Ícones ainda menores */
+  }
+
+  li {
+    font-size: 10px;
+    padding: 6px;
+  }
+
+  #sword__title {
+    font-size: 18px;
+  }
+
+  .sword {
+    padding: 10px;
+  }
+}
 </style>

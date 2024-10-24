@@ -4,7 +4,7 @@
       <span>Gloves:</span>
 
       <li>
-        <img class="sw__icon" src="@/assets/itens/RaijinSlayer.png">
+        <img class="glove__icon" src="@/assets/itens/RaijinSlayer.png">
         <span>Raijin Slayer</span>
         <table class="glove-table">
           <thead>
@@ -55,7 +55,7 @@
       </li>
 
       <li>
-        <img class="sw__icon" src="@/assets/itens/GoldenSlayerGlove.png">
+        <img class="glove__icon" src="@/assets/itens/GoldenSlayerGlove.png">
         <span>Golden Slayer Gloves</span>
         <table class="glove-table">
           <thead>
@@ -78,7 +78,7 @@
       </li>
 
       <li>
-        <img class="sw__icon" src="@/assets/itens/Kokinjo.png">
+        <img class="glove__icon" src="@/assets/itens/Kokinjo.png">
         <span>Kokinjo</span>
         <table class="glove-table">
           <thead>
@@ -101,7 +101,7 @@
       </li>
 
       <li>
-        <img class="sw__icon" src="@/assets/itens/AianNakkuru.png">
+        <img class="glove__icon" src="@/assets/itens/AianNakkuru.png">
         <span>Aian Nakkuru</span>
         <table class="glove-table">
           <thead>
@@ -126,7 +126,7 @@
       
 
       <li>
-        <img class="sw__icon" src="@/assets/itens/RaikageGlove.png">
+        <img class="glove__icon" src="@/assets/itens/RaikageGlove.png">
         <span>Raikage Glove</span>
         <table class="glove-table">
           <thead>
@@ -173,7 +173,7 @@
   font-weight: bold;
 }
 
-#gloves__title {
+#glove__title {
   font-size: 24px;
   color: #ff6600; /* Título laranja para destacar */
   margin-bottom: 20px;
@@ -189,7 +189,7 @@
   margin-bottom: 20px;
 }
 
-.sw__icon {
+.glove__icon {
   width: 80px; /* Tamanho dos ícones */
   margin-bottom: 10px;
   border: 2px solid #ffcc00; /* Borda amarela ao redor do ícone */
@@ -230,5 +230,50 @@ span {
   font-weight: bold;
   font-size: 18px;
   margin-bottom: 10px;
+}
+
+/* Responsividade para dispositivos móveis */
+@media (max-width: 768px) {
+  .glove-table th, .glove-table td {
+    padding: 5px;
+    font-size: 12px;
+  }
+
+  .glove__icon {
+    width: 60px; /* Ícones menores em dispositivos móveis */
+  }
+
+  li {
+    font-size: 12px; /* Texto menor nos itens */
+    padding: 8px;
+  }
+
+  #distance__title {
+    font-size: 20px; /* Reduz o tamanho do título */
+  }
+}
+
+/* Responsividade para dispositivos menores que 480px */
+@media (max-width: 480px) {
+  .glove-table th, .glove-table td {
+    font-size: 10px; /* Fonte ainda menor */
+  }
+
+  .glove__icon {
+    width: 50px; /* Ícones ainda menores */
+  }
+
+  li {
+    font-size: 10px;
+    padding: 6px;
+  }
+
+  #glove__title {
+    font-size: 18px;
+  }
+
+  .glove {
+    padding: 10px;
+  }
 }
 </style>

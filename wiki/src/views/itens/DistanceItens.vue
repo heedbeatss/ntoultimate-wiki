@@ -153,4 +153,50 @@ a:hover {
   text-decoration: underline; /* Sublinha ao passar o mouse */
 }
 
+
+
+/* Responsividade para dispositivos móveis */
+@media (max-width: 768px) {
+  .distance-table th, .distance-table td {
+    padding: 5px;
+    font-size: 12px;
+  }
+
+  .ds__icon {
+    width: 60px; /* Ícones menores em dispositivos móveis */
+  }
+
+  li {
+    font-size: 12px; /* Texto menor nos itens */
+    padding: 8px;
+  }
+
+  #distance__title {
+    font-size: 20px; /* Reduz o tamanho do título */
+  }
+}
+
+/* Responsividade para dispositivos menores que 480px */
+@media (max-width: 480px) {
+  .distance-table th, .distance-table td {
+    font-size: 10px; /* Fonte ainda menor */
+  }
+
+  .ds__icon {
+    width: 50px; /* Ícones ainda menores */
+  }
+
+  li {
+    font-size: 10px;
+    padding: 6px;
+  }
+
+  #distance__title {
+    font-size: 18px;
+  }
+
+  .distance {
+    padding: 10px;
+  }
+}
 </style>
