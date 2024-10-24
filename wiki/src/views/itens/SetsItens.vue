@@ -4,7 +4,6 @@
         <span>   Set's:</span>
         <li>
           <img class="set__icon" src="@/assets/itens/SenjuSet.png">
-          <span>Set's:</span>
           <table class="sets-table">
 
             <thead>
@@ -114,6 +113,10 @@
     padding: 15px;
   }
 
+.sets__icon {
+  display: none;
+}
+
 .set-image {
     max-width: 100%;
     height: auto; 
@@ -187,4 +190,77 @@
     font-size: 18px;
     margin-bottom: 10px;
   }
+
+  @media (max-width: 1200px) {
+    #sets__title {
+      font-size: 22px;
+    }
+  
+    .set-image {
+      max-height: 350px; /* Reduz o tamanho da imagem em telas menores */
+    }
+  
+    .set-description {
+      font-size: 15px;
+    }
+  
+    .set__icon {
+      display: none;
+    }
+  }
+  
+  /* Telas menores que 900px */
+  @media (max-width: 900px) {
+    #sets__title {
+      font-size: 20px;
+    }
+  
+    .set-image {
+      max-height: 300px;
+    }
+  
+    .set-description {
+      font-size: 14px;
+    }
+  
+    .sets__icon {
+      width: 60px;
+    }
+    
+    li {
+      font-size: 13px;
+      padding: 8px;
+    }
+  }
+  
+  /* Telas menores que 600px (ex. dispositivos móveis) */
+  @media (max-width: 600px) {
+    #sets__title {
+      font-size: 18px;
+      text-align: center;
+    }
+  
+    .set-image {
+      max-height: 250px;
+    }
+  
+    .set-description {
+      font-size: 12px;
+      text-align: center;
+    }
+  
+    .sets__icon {
+      width: 50px;
+    }
+  
+    .set {
+      padding: 10px;
+    }
+    
+    li {
+      padding: 5px;
+      margin-bottom: 10px;
+    }
+  }
+
   </style>
