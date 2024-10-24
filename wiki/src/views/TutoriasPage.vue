@@ -251,4 +251,66 @@ a:hover {
   text-decoration: underline;
 }
 
+@media (max-width: 768px) {
+  section.tutorials {
+    padding: 10px;
+  }
+
+  h1 {
+    font-size: 24px;
+  }
+
+  h2, h3 {
+    font-size: 18px;
+  }
+
+  p, li {
+    font-size: 14px;
+  }
+
+  .tabs a {
+    display: block; /* Coloca as tabs em bloco para ficarem uma embaixo da outra */
+    width: 100%;
+    text-align: center;
+    padding: 10px;
+    margin: 5px 0;
+  }
+
+  .tutorial-content {
+    padding: 15px;
+    margin-top: 15px;
+  }
+
+  iframe {
+    width: 100%;
+    height: auto; /* Para ajustar o vídeo à largura do container */
+  }
+}
+
+@media (max-width: 480px) {
+  h1 {
+    font-size: 20px;
+  }
+
+  h2, h3 {
+    font-size: 16px;
+  }
+
+  p, li {
+    font-size: 12px;
+  }
+
+  .tabs a {
+    padding: 8px;
+    font-size: 14px;
+  }
+
+  .tutorial-content {
+    padding: 10px;
+  }
+
+  iframe {
+    border: 1px solid #ffcc00; /* Ajuste a borda para dispositivos menores */
+  }
+}
 </style>
