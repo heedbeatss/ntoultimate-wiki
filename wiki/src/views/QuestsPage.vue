@@ -166,7 +166,7 @@ ul {
 li {
   margin: 10px 0;
   font-size: 1.1rem;
-  color: #2a2a2a;
+  color: black;
 }
 
 a {
@@ -177,5 +177,11 @@ a {
 
 a:hover {
   text-decoration: underline;
+}
+
+p {
+  color: #2a2a2a;
+  text-decoration: none;
+  font-weight: bold;
 }
 </style>
