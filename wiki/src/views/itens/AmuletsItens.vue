@@ -20,7 +20,7 @@
               <tr>
                 <td>Amulet of Yinyang</td>
                 <td>Item Vip</td>
-                <td>0.</td>
+                <td>0</td>
                 <td>Ninjutsu + 10 | Skills + 10 | Jutsus de Heal regeneram +32% | Regenera 750 de Hp e Chakra por segund.</td>
                 <td><img src='@/assets/itens/AmuletYinYang.png'></td>
               </tr>
@@ -49,7 +49,7 @@
             <tbody>
               <tr>
                 <td>Kubikazari</td>
-                <td>Quest</td>
+                <td></td>
                 <td>0</td>
                 <td>Glove taijutsu +3, sword taijutsu +3, distance taijutsu +3, ninjutsu +3, faster regeneration.</td>
                 <td><img src='@/assets/itens/Kubikazari.png'></td>

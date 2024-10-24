@@ -70,8 +70,8 @@
           <tbody>
             <tr>
               <td>New Kage</td>
-              <td>...</td>
-              <td>...</td>
+              <td>Quest New Kage</td>
+              <td></td>
               <td>2500</td>
               <td>1000</td>
             </tr>

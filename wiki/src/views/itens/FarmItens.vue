@@ -55,7 +55,7 @@
                 <tr>
                   <td>Dente de Gedou</td>
                   <td>Gedou Dog</td>
-                  <td>...</td>
+                  <td></td>
                   <td><img src='@/assets/itens/DenteDeGedou.png'></td>
                 </tr>
             </tbody>
@@ -99,8 +99,8 @@
             <tbody>
                 <tr>
                   <td>Gold Dust</td>
-                  <td>...</td>
-                  <td>...</td>
+                  <td></td>
+                  <td></td>
                   <td><img src='@/assets/itens/GoldDust.png'></td>
                 </tr>
             </tbody>
@@ -108,7 +108,7 @@
             <tbody>
                 <tr>
                   <td>Green Leaf</td>
-                  <td>...</td>
+                  <td></td>
                   <td>Fazer Green Pill</td>
                   <td><img src='@/assets/itens/GreenLeaf.png'></td>
                 </tr>
@@ -136,7 +136,7 @@
             <tr>
               <td>Kamon Eye</td>
               <td>Kamon</td>
-              <td>...</td>
+              <td></td>
               <td><img src='@/assets/itens/KamonEye.png'></td>
             </tr>
         </tbody>
@@ -172,7 +172,7 @@
     <tbody>
       <tr>
         <td>Red Leaf</td>
-        <td>...</td>
+        <td></td>
         <td>Fazer Red Pill</td>
         <td><img src='@/assets/itens/RedLeaf.png'></td>
       </tr>

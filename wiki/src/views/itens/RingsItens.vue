@@ -27,7 +27,7 @@
             <tbody>
               <tr>
                 <td>Red Ring Ni</td>
-                <td>Quest ?</td>
+                <td></td>
                 <td>Parts Ni Ring. Sword Skill +2 and +5 Ninjutsu..</td>
                 <td><img src='@/assets/itens/RedRingNi.png'></td>
               </tr>

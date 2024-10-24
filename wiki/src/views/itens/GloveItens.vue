@@ -46,7 +46,7 @@
             <tr>
               <td>Raikage Furie Gloves</td>
               <td>Quest New Gloves/New Kage</td>
-              <td>...</td>
+              <td></td>
               <td>2500</td>
               <td>1000</td>
             </tr>
@@ -69,7 +69,7 @@
           <tbody>
             <tr>
               <td>Golden Slayer Gloves</td>
-              <td>...</td>
+              <td></td>
               <td>2500</td>
               <td>1000</td>
             </tr>
@@ -115,7 +115,7 @@
           <tbody>
             <tr>
               <td>Aian Nakkuru</td>
-              <td>Quest</td>
+              <td></td>
               <td>1350</td>
               <td>0</td>
             </tr>

@@ -27,7 +27,7 @@
             <tbody>
               <tr>
                 <td>Dollar</td>
-                <td>...</td>
+                <td></td>
                 <td>Gold bar</td>
                 <td><img src='@/assets/itens/Dollar.png'></td>
               </tr>

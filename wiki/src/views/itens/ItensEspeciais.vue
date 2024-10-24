@@ -64,7 +64,7 @@
           <tbody>
             <tr>
               <td>Pirate Voodoo Doll</td>
-              <td>...</td>
+              <td></td>
               <td>Decoração</td>
               <td><img src='@/assets/itens/PirateVoodooDoll.png'></td>
             </tr>
@@ -92,7 +92,7 @@
     <tbody>
       <tr>
         <td>Voodoo Doll</td>
-        <td>...</td>
+        <td></td>
         <td>Decoração</td>
         <td><img src='@/assets/itens/VoodooDoll.png'></td>
       </tr>

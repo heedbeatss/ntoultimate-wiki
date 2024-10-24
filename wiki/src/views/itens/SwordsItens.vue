@@ -46,7 +46,7 @@
           <tbody>
             <tr>
               <td>New Samehada</td>
-              <td></td>
+              <td>Suikazan Fuguki</td>
               <td>Rouba o chakra do alvo</td>
               <td>2500</td>
               <td>1000</td>
@@ -197,7 +197,7 @@
           <tbody>
             <tr>
               <td>Bee Sword</td>
-              <td>Quest</td>
+              <td></td>
               <td>Sword Taijutsu +10</td>
               <td>1500</td>
               <td>750</td>
@@ -244,7 +244,7 @@
           <tbody>
             <tr>
               <td>Kongounyoi Staff</td>
-              <td>Quest</td>
+              <td></td>
               <td>750</td>
               <td>750</td>
             </tr>
