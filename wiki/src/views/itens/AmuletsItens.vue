@@ -147,4 +147,49 @@
     font-size: 18px;
     margin-bottom: 10px;
   }
-  </style>
+/* Responsividade para dispositivos móveis */
+@media (max-width: 768px) {
+  .amulets-table th, .amulets-table td {
+    padding: 5px;
+    font-size: 12px;
+  }
+
+  .amulets__icon {
+    width: 60px; /* Ícones menores em dispositivos móveis */
+  }
+
+  li {
+    font-size: 12px; /* Texto menor nos itens */
+    padding: 8px;
+  }
+
+  #amulets__title {
+    font-size: 20px; /* Reduz o tamanho do título */
+  }
+}
+
+/* Responsividade para dispositivos menores que 480px */
+@media (max-width: 480px) {
+  .amulets-table th, .amulets-table td {
+    font-size: 10px; /* Fonte ainda menor */
+    max-width: 50px;
+  }
+
+  .amulets__icon {
+    width: 50px; /* Ícones ainda menores */
+  }
+
+  li {
+    font-size: 10px;
+    padding: 6px;
+  }
+
+  #amulets__title {
+    font-size: 18px;
+  }
+
+  .amulets {
+    padding: 10px;
+  }
+}
+</style>

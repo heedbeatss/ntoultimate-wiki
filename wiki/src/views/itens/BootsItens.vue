@@ -169,4 +169,49 @@ span {
   font-size: 18px;
   margin-bottom: 10px;
 }
+/* Responsividade para dispositivos móveis */
+@media (max-width: 768px) {
+  .boots-table th, .boots-table td {
+    padding: 5px;
+    font-size: 12px;
+  }
+
+  .boots__icon {
+    width: 60px; /* Ícones menores em dispositivos móveis */
+  }
+
+  li {
+    font-size: 12px; /* Texto menor nos itens */
+    padding: 8px;
+  }
+
+  #boots__title {
+    font-size: 20px; /* Reduz o tamanho do título */
+  }
+}
+
+/* Responsividade para dispositivos menores que 480px */
+@media (max-width: 480px) {
+  .boots-table th, .boots-table td {
+    font-size: 10px; /* Fonte ainda menor */
+    max-width: 50px;
+  }
+
+  .boots__icon {
+    width: 50px; /* Ícones ainda menores */
+  }
+
+  li {
+    font-size: 10px;
+    padding: 6px;
+  }
+
+  #boots__title {
+    font-size: 18px;
+  }
+
+  .boots {
+    padding: 10px;
+  }
+}
 </style>
