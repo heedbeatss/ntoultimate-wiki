@@ -128,6 +128,12 @@
   padding: 5px;
 }
 
+.legs img {
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+}
+
 li {
   list-style-type: none;
   color: #ffcc00; /* Cor amarela para o texto dos itens */

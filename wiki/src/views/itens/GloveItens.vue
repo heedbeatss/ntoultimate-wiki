@@ -193,7 +193,7 @@
   width: 80px; /* Tamanho dos ícones */
   margin-bottom: 10px;
   border: 2px solid #ffcc00; /* Borda amarela ao redor do ícone */
-  border-radius: 50%; /* Ícone em forma de círculo */
+  
   background-color: rgba(255, 255, 255, 0.2); /* Fundo do ícone com leve transparência */
   padding: 5px;
 }

@@ -114,6 +114,12 @@
     background-color: rgba(255, 255, 255, 0.2); /* Fundo do ícone com leve transparência */
     padding: 5px;
   }
+
+  .food img {
+    width: 40px;
+    height: 40px;
+    object-fit: cover;
+  }
   
   li {
     list-style-type: none;

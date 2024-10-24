@@ -77,7 +77,7 @@
     overflow: hidden; /* Evita que o conteúdo exceda as bordas */
   }
   
-  .acessories th, .amulets td {
+  .acessories th, .acessories td {
     border: 1px solid #ffcc00; /* Borda amarela */
     padding: 8px;
     text-align: center;
@@ -112,6 +112,13 @@
     border-radius: 50%; /* Ícone em forma de círculo */
     background-color: rgba(255, 255, 255, 0.2); /* Fundo do ícone com leve transparência */
     padding: 5px;
+  }
+
+
+  .acessories img {
+    width: 40px;
+    height: 40px;
+    object-fit: cover;
   }
   
   li {

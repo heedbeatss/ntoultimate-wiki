@@ -29,7 +29,7 @@
                   <td>Burger</td>
                   <td>Npc Chouji</td>
                   <td>Aumenta a xp em 10% por 12 horas</td>
-                  <td><img src='@/assets/itens/GoldDust.png'></td>
+                  <td><img src='@/assets/itens/Burger.png'></td>
                 </tr>
             </tbody>
 
@@ -38,7 +38,7 @@
                   <td>Hyorogan</td>
                   <td>Npc Chouji</td>
                   <td>Aumenta a xp em 30% por 12 horas</td>
-                  <td><img src='@/assets/itens/GreenLeaf.png'></td>
+                  <td><img src='@/assets/itens/Hyorogan.png'></td>
                 </tr>
             </tbody>
 
@@ -47,7 +47,7 @@
                   <td>Papel de Pontos</td>
                   <td>Npc Tsunade</td>
                   <td>Sistema desativado que permitia trocar pontos entre os jogadores.</td>
-                  <td><img src='@/assets/itens/GreenPill.png'></td>
+                  <td><img src=''></td>
                 </tr>
             </tbody>
 
@@ -117,7 +117,7 @@
     overflow: hidden; /* Evita que o conteúdo exceda as bordas */
   }
   
-  .especiais th, .especias td {
+  .especiais th, .especiais td {
     border: 1px solid orange; /* Borda amarela */
     padding: 8px;
     text-align: center;
@@ -156,16 +156,22 @@
   
   li {
     list-style-type: none;
-    color: #ffcc00; /* Cor amarela para o texto dos itens */
+    color: white; /* Cor amarela para o texto dos itens */
     font-size: 14px;
     display: flex;
     flex-direction: column;
     align-items: center;
     padding: 10px;
-    border: 1px solid #ff6600; /* Bordas laranjas */
+    border: 1px solid Yellow; /* Bordas amarelas */
     border-radius: 8px; /* Bordas arredondadas */
     margin-bottom: 15px;
     background-color: rgba(0, 0, 0, 0.5); /* Fundo preto semitransparente */
+  }
+
+  .especiais img {
+    width: 40px;
+    height: 40px;
+    object-fit: cover;
   }
   
   ul {

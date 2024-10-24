@@ -123,6 +123,7 @@
 .ds__icon {
   width: 80px; /* Tamanho dos ícones */
   margin-bottom: 10px;
+  border: 2px solid #ffcc00; /* Borda amarela ao redor do ícone */
 }
 
 li {

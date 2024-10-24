@@ -44,9 +44,18 @@
 
             <tbody>
               <tr>
+                <td>New Potion</td>
+                <td>Usando Red Pill em uma Potion</td>
+                <td>Ótimo</td>
+                <td><img src='@/assets/itens/NewPot.png'></td>
+              </tr>
+            </tbody>
+
+            <tbody>
+              <tr>
                 <td>Potion Death Ninjutsu</td>
                 <td>Npc Chouji</td>
-                <td>Especial Potion (Não perde skill de Ninjtusu ao morrer)</td>
+                <td>Especial Potion (Não perde skill de ninjtusu ao morrer)</td>
                 <td><img src='@/assets/itens/PotionDeathNinjutsu.png'></td>
               </tr>
             </tbody>
@@ -55,7 +64,7 @@
               <tr>
                 <td>Potion Skill Ninjutsu</td>
                 <td>Npc Chouji</td>
-                <td>Especial Potion (Não perde skill de Arma ao morrer)</td>
+                <td>Especial Potion (Não perde skill de arma ao morrer)</td>
                 <td><img src='@/assets/itens/PotionDeathSkill.png'></td>
               </tr>
             </tbody>
@@ -134,6 +143,12 @@
     border-radius: 50%; /* Ícone em forma de círculo */
     background-color: rgba(255, 255, 255, 0.2); /* Fundo do ícone com leve transparência */
     padding: 5px;
+  }
+
+  .potions img {
+    width: 40px;
+    height: 40px;
+    object-fit: cover;
   }
   
   li {

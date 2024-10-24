@@ -13,7 +13,7 @@
           <h3>Armas</h3>
             <li><RouterLink to="/distance">Distance</RouterLink></li>
             <li><RouterLink to="/gloves">Gloves</RouterLink></li>
-            <li><RouterLink to="/outras">Outras</RouterLink></li>
+            <!-- <li><RouterLink to="/outras">Outras</RouterLink></li> -->
             <li><RouterLink to="/swords">Swords</RouterLink></li>      
         </div>    
         

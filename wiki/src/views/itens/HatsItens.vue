@@ -127,6 +127,13 @@
     background-color: black; /* Fundo do ícone com leve transparência */
     padding: 5px;
   }
+
+  .hats img {
+    width: 40px;
+    height: 40px;
+    object-fit: cover;
+  }
+  
   
   li {
     list-style-type: none;

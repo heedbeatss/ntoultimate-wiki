@@ -145,7 +145,7 @@
           <tr>
             <td>Kit Pill</td>
             <td>DG, Npc Chouji</td>
-            <td>...</td>
+            <td>Aumenta atributos do personagem temporariamente</td>
             <td><img src='@/assets/itens/KitPill.png'></td>
           </tr>
       </tbody>
@@ -174,7 +174,7 @@
         <td>Red Leaf</td>
         <td>...</td>
         <td>Fazer Red Pill</td>
-        <td><img src='@/assets/itens/GreenLeaf.png'></td>
+        <td><img src='@/assets/itens/RedLeaf.png'></td>
       </tr>
   </tbody>
 
@@ -183,7 +183,7 @@
         <td>Red Pill</td>
         <td>Npc Chouji</td>
         <td>Fazer New Pot/Kit Pill</td>
-        <td><img src='@/assets/itens/GreenPill.png'></td>
+        <td><img src='@/assets/itens/RedPill.png'></td>
       </tr>
   </tbody>
 
@@ -192,7 +192,7 @@
         <td>Renegade Essence</td>
         <td>Renegade</td>
         <td>Kit Selo, item também é pedido em missões das Sagas</td>
-        <td><img src='@/assets/itens/GreenPill.png'></td>
+        <td><img src='@/assets/itens/RenegadeEssence.png'></td>
       </tr>
   </tbody>
 
@@ -275,6 +275,13 @@
     background-color: rgba(255, 255, 255, 0.2); /* Fundo do ícone com leve transparência */
     padding: 5px;
   }
+
+  .farm img {
+    width: 40px;
+    height: 40px;
+    object-fit: cover;
+  }
+  
   
   li {
     list-style-type: none;

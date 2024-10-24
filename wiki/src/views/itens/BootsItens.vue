@@ -29,7 +29,7 @@
 
           <tbody>
             <tr>
-              <td>Kurama Hat</td>
+              <td>Kurama Boots</td>
               <td>Item Vip</td>
               <td>Armor: 500 | Ninjutsu + 20 | Skills + 20 | Regenera 1250 de Hp e Chakra por segundo | Speed + 200.</td>
               <td>Quando equipado com hat + armor + legs + boots do set kurama, é ativado uma passiva a qual corta a cura de quem estiver atacando você em 25% quando sua vida estiver abaixo de 65%!.</td>
@@ -39,7 +39,7 @@
 
           <tbody>
             <tr>
-              <td>Uchiha Hat</td>
+              <td>Uchiha Boots</td>
               <td>Item Vip</td>
               <td>Armor: 500 | Ninjutsu + 20 | Skills + 20 | Regenera 1250 de Hp e Chakra por segundo | Speed + 200.</td>
               <td>Quando equipado com hat + armor + legs + boots do set uchiha, é ativado uma passiva a qual cura 20% de todo dano causado no alvo quando sua vida estiver abaixo de 70%!.</td>
@@ -128,6 +128,12 @@
   border-radius: 50%; /* Ícone em forma de círculo */
   background-color: black; /* Fundo do ícone com leve transparência */
   padding: 5px;
+}
+
+.boots img {
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
 }
 
 li {
