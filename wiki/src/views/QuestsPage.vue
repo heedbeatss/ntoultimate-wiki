@@ -135,13 +135,17 @@ button:active {
   gap: 10px;
   justify-content: center;
   margin-bottom: 20px;
-  max-width: 200px;
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
 }
 
 .quest__prints img {
   max-width: 200px;
+  max-height: 100px;
   border-radius: 8px;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  object-fit: cover;
 }
 
 
