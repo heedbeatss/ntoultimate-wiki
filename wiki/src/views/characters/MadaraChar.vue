@@ -180,7 +180,7 @@
             <p>Descrição: Após usar o jutsu, você conseguirá ver jogadores oponentes invisíveis durante 7 segundos, além de invocar vários clones do Madara. Clones irão receber parte do dano que o Madara receberá.</p>
           </li> 
           <li>
-            <h3>Jutsu: Rinbo Hengoku</h3>
+            <h3>Jutsu: Katon Haijingakure no Jutsu</h3>
             <p>Level: 525</p>
             <p>Utilidade: Suporte</p>
             <p>Descrição: Madara solta uma fumaça e se camufla nela por alguns segundos.</p>
