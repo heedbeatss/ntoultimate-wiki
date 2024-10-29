@@ -135,8 +135,8 @@ button:active {
   gap: 10px;
   justify-content: center;
   margin-bottom: 20px;
-  width: 200px;
-  height: 200px;
+  width: 500px;
+  height: 700px;
   object-fit: cover;
 }
 
