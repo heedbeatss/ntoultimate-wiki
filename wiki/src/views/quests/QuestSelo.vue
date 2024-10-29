@@ -11,9 +11,8 @@
       <div class="quest__media">
         <h3>Galeria de Prints</h3>
         <div class="quest__prints">
-          <img src="" alt="Print da Quest 1">
-          <img src="" alt="Print da Quest 2">
-          <img src="" alt="Print da Quest 3">
+          <img src="@/assets/quests/selo/EntradaQuest.png" alt="Entrada  da Quest">
+          <img src="@/assets/quests/selo/EntradaQuest2.png" alt="Entrada  da Quest 2">
           <!-- Adicione mais imagens conforme necessário -->
         </div>
   
