@@ -5,7 +5,7 @@
         <h3>Local da Quest: Covil Orochimaru</h3>
         <p>Requisitos: Nenhum item é necessário para fazer a quest</p>
         <p>Boss:</p>
-        <p>Premiação: New Kage e/ou New Glove</p>
+        <p>Premiação: New Kage e/ou New Glove + 25 pontos de elo</p>
         <p>Obs: Essa Quest pode ser feita duas vezes por season.</p>
     </div>
   
@@ -14,6 +14,9 @@
         <div class="quest__prints">
           <img src="@/assets/quests/newkage/EntradaQuest.png" alt="Entrada da Quest">
           <img src="@/assets/quests/newkage/EntradaQuest2.png" alt="Entrada da Quest 2">
+          <img src="@/assets/quests/newkage/NewKage.png" alt="Quest">
+          <img src="@/assets/quests/newkage/NewKage2.png" alt="Boss final da Quest">
+          <img src="@/assets/quests/newkage/NewKage3.png" alt="Recompensa da Quest">
           <!-- Adicione mais imagens conforme necessário -->
         </div>
   
