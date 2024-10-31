@@ -3,7 +3,7 @@
         <div class="personagem__info">
           <img src="@/assets/personagens/Hidan.jpg"> 
           <h2>Hidan</h2>
-          <h3> Dano | Suporte | Sword/Distance </h3> 
+          <h3> Dano | Tank | Sword/Distance </h3> 
         </div>
 
         <div class="combos">

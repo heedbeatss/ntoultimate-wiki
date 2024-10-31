@@ -3,7 +3,7 @@
         <div class="personagem__info">
           <img src="@/assets/personagens/Chouji.jpg"> 
           <h2>Chouji</h2>
-          <h3> Dano | Glove/Sword/Distance </h3> 
+          <h3> Dano | Tank | Glove/Sword/Distance </h3> 
         </div>
 
         <div class="combos">

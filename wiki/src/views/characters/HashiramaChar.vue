@@ -3,7 +3,7 @@
       <div class="personagem__info">
         <img src="@/assets/personagens/Hashirama.jpg"> 
         <h2>Hashirama</h2>
-        <h3> Dano | Trap | Distance/Sword </h3> 
+        <h3> Dano | Tank | Trap | Distance/Sword </h3> 
       </div>
 
       <div class="combos">
