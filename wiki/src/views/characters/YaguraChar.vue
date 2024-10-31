@@ -14,7 +14,6 @@
   
 
       <div class="jutsus__personagens">
-        <h2>Jutsus do Yagura</h2>
         <ul class="jutsus__yagura">
           <li>
             <h3>Jutsu: Bijuuka</h3>
