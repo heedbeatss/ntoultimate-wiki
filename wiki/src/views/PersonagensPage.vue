@@ -452,7 +452,14 @@
             </div>
           </RouterLink>
         </li>
-      </ul>
+        <li>
+          <RouterLink to="/yagura">
+            <div class="personagem">
+              <span>Yagura</span>
+              <img class="icon" src="@/assets/personagens/Yagura.jpg">
+            </div>
+          </RouterLink>
+        </li>
         <li>
           <RouterLink to="/zetsu">
             <div class="personagem">
@@ -461,6 +468,7 @@
             </div>
           </RouterLink>
         </li>
+        </ul>
     </ul>
   </section>
 </template>
