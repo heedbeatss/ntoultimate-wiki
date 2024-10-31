@@ -4,7 +4,7 @@
       <div class="personagem__info">
         <img src="@/assets/personagens/Yagura.jpg"> 
         <h2>Yagura</h2>
-        <h3> Dano | Tank | Stack | Sword/Distance</h3> 
+        <h3> Dano | Stack | Sword/Distance</h3> 
       </div>
 
       <div class="combos">
