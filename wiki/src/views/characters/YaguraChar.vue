@@ -143,13 +143,20 @@
       
           <li>
             <h3>Jutsu: Sanbi Modo</h3>
-            <p><strong>Level:</strong> 525</p>
-            <p><strong>Utilidade:</strong> Transforma Yagura, concedendo buffs e efeitos especiais</p>
-            <p><strong>Efeitos:</strong> Recupera 100% de vida, ignora 25% de todo dano, imunidade a dano de água, e recuperação de vida com dano causado</p>
-            <p><strong>Cooldown:</strong> 65 segundos</p>
-            <p><strong>Duração:</strong> 20 segundos</p>
-          </li>
-        </ul>
+            <p>Level: 525</p>
+            <p>Utilidade: Buff</p>
+            <p>Descrição: Yagura se transforma em sua forma de batalha, ganhando os seguintes efeitos:</p>
+            <ul>
+                <li>Ao ativar, recupera 100% de vida.</li>
+                <li>Ignora 25% de todo o dano.</li>
+                <li>Ignora 100% de todo o dano de água.</li>
+                <li>Recupera 10% de vida baseado no dano que o Yagura causa no oponente.</li>
+                <li>Ganha 70 de Ninjutsu + 70 de Taijutsu + 70 de Sword, Glove e Distance.</li>
+                <li>Cooldown: 65 segundos</li>
+                <li>Duração: 20 segundos</li>
+            </ul>
+        </li>
+    </ul>
       </div>
          
         </section>
